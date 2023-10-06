@@ -45,34 +45,25 @@ In addition to the tasks mentioned earlier, we conducted data exploration to gai
 ## 1. Bike Related Purchase Over The Last 3 Years Based On Gender
 Data shows that Females have made a substantial contribution to our sales, purchasing nearly 70,000 bikes. 
 On the other hand, males have also shown strong engagement with our products, with approximately 68,000 bikes purchased during the same period.
-![image](https://github.com/Gunavazhagi/project_portfolio/assets/145430936/3bd5e2eb-7494-4f5f-8b8f-ca8bbac6cff4)
-
 
 ## 2. Profit by Wealth Segment Across Age Clusters
 The analysis reveals that the Financial Services, Manufacturing, and Health industries have emerged as the top profit-generating sectors in relation to bike purchases. 
 These industries have exhibited significant revenue contributions, showcasing their strong alignment with our products.
 The analysis indicates that the IT and Telecommunications industries have registered comparatively lower profit contributions in relation to bike purchases
-![image](https://github.com/Gunavazhagi/project_portfolio/assets/145430936/771097fa-5a37-4670-9330-9cf64e4719b8)
 
 ## 3. Top Profit-Generating Job Industries in Relation to Bike Purchases
 Data shows that the mass customer segmentation makes the highest profit across the different age clusters.
  Mass Customer aged between 41-50 are likely to bring more profit for the company compared to the other age clusters.
- This also indicates a trend of buying power, as the buying power increases over time till 50 and then see’s a decline in buying power, thus leading to lower profits
-![image](https://github.com/Gunavazhagi/project_portfolio/assets/145430936/d087fd10-90cc-4453-804b-213d723cbf40)
-
+ This also indicates a trend of buying power, as the buying power increases over time till 50 and then see’s a decline in buying power, thus leading to lower profit
 
 ## 4. Profit Analysis Based on Brands
 Data shows that the "WerareA2B" brand emerges as the top performer, yielding the highest profits.
 “Solex” follows closely as the second-highest profit-earning brand. Its strong performance is indicative of its popularity and appeal among our customers.
 While the "Norco Bicycles" brand registers the lowest profit margins.
-![image](https://github.com/Gunavazhagi/project_portfolio/assets/145430936/d90c870b-c64f-4bc7-90c9-f0e901b8b668)
-
 
 ## 5. Number of Owned Cars in Each State
 New south wales, QLD & Victoria could be potential market opportunity for the company
  “New South Wales” has the highest potential as the number of people that own car is almost equal to the people who don’t own cars which shows that there is opportunity to find value customers there.
-![image](https://github.com/Gunavazhagi/project_portfolio/assets/145430936/55428257-9b09-463f-a00f-1796f157351e)
-
 
 These data exploration findings provide additional insights into the dataset and can be valuable for decision-making and strategy development.
 
