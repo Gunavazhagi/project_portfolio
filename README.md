@@ -2,7 +2,8 @@
 
 ## KPMG Virtual Internship Project
 
-The KPMG data analytics virtual internship is designed to provide practical insights into the work conducted at KPMG and offers an opportunity to build career skills and experience. 
+The KPMG data analytics virtual internship is designed to provide practical insights into the work conducted at KPMG and offers an opportunity to build career skills and experience.
+
 **Problem Statement:**
                       Sprocket Central Pty Ltd has a list of 1000 potential customers with their demographics and attributes, but these customers have no prior transaction history with the company. The marketing team recognizes that this data holds valuable insights that could be leveraged to enhance their marketing efforts. 
 However, the challenge lies in how to effectively analyze this data to identify high-value customers and optimize resource allocation for targeted marketing.
